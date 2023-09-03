@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pnghd.pics/data/337/gambar-gif-komunikasi-0.gif)]
+![MasterHead](https://cdn.pnghd.pics/data/337/gambar-gif-komunikasi-0.gif)
 <h1 align="center">Hi 👋, I'm Pratim Roy Chowdhury</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sckrsn8u7fm78w4ym88zmb1nt1g8fd8rnyxmbeex&ep=v1_gifs_search&rid=giphy.gif&ct=g">
